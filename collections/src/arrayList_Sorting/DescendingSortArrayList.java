@@ -6,6 +6,7 @@ public class DescendingSortArrayList {
 
 	public static void main(String[] args) {
 	
+		// this is a descending order sort in arrayList
 		ArrayList<String> ary = new ArrayList<String> (Arrays.asList("joe","back","hi"));
 		
 		System.out.println("Before the Desc Assorting String: ");
